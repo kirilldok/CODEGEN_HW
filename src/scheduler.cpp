@@ -1,4 +1,4 @@
-#include "../include/scheduler.h"
+#include "../include/schelduler.h"
 #include <queue>
 
 std::vector<Instruction> schedule(std::vector<Instruction>& block) {
